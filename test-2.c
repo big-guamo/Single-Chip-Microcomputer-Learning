@@ -53,7 +53,6 @@ void buzz(){
 					P2 &=0x1f;
 				delay();
 					
-				
 				}
 			}
 			
